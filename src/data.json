@@ -1,0 +1,51 @@
+{
+    "software": [
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "Software Material 1",
+        "link": "link_to_resource1.pdf"
+      },
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "Software Material 2",
+        "link": "link_to_resource2.pdf"
+      }
+    ],
+    "embedded": [
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "Embedded Material 1",
+        "link": "link_to_resource3.pdf"
+      },
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "Embedded Material 2",
+        "link": "link_to_resource4.pdf"
+      }
+    ],
+    "hardware": [
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "Hardware Material 1",
+        "link": "link_to_resource5.pdf"
+      },
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "Hardware Material 2",
+        "link": "link_to_resource6.pdf"
+      }
+    ],
+    "vlsi": [
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "VLSI Material 1",
+        "link": "link_to_resource7.pdf"
+      },
+      {
+        "thumbnail": "https://i.postimg.cc/mkym9VLK/freeimg.jpg",
+        "title": "VLSI Material 2",
+        "link": "link_to_resource8.pdf"
+      }
+    ]
+  }
+  
